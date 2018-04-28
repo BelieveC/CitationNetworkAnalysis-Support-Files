@@ -1,0 +1,1975 @@
+4bac4d33,Nobutaka Suzuki
+bbd1609e,Minoru Ito
+25c88cdc,Jun Okui
+11905ce8,Shin'ichi Konomi
+26119059,Yahiko Kambayashi
+600d104a,Hideyuki Takada
+61307069,Hiromitsu Shimakawa
+f786b9c9,Yoshitomo Asano
+43cd9e42,Morikazu Takegaki
+9c7e5826,Takeo Kunishima
+0b8787d9,Kazumasa Yokota
+3b70ed17,Olivera Marjanovic
+5a6cad48,Maria E. Orlowska
+9c7e5826,Takeo Kunishima
+0b8787d9,Kazumasa Yokota
+9975b06a,Bojiang Liu
+aaa31601,Tadaaki Miyake
+3349badd,Yuzuru Tanaka
+32d109c9,Harumi A. Kuno
+927a87fb,Elke A. Rundensteiner
+1d770a7b,Zahir Tari
+0ee928a0,Tony C. T. Kuo
+900f0e7b,Arbee L. P. Chen
+a128cd2e,Kuniaki Uehara
+0bf0db39,Meguru Oe
+b7912f03,Keita Maehara
+8ec3cd89,Chin-Feng Lee
+593b97cc,Chin-Chen Chang
+51b55546,P. Valsecchi
+72459ea7,Christophe Claramunt
+b8fa2b51,Stefano Spaccapietra
+a2c5673e,Ickjai Lee
+674d687a,Vladimir Estivill-Castro
+3a2ac3d2,Masahiro Watanabe
+b89a0bd4,Takaharu Oishi
+f20303d6,Masatoshi Yoshikawa
+9997f452,Minoru Nakai
+580418fe,Shunsuke Uemura
+2eefb173,Seung Il Lee
+e119c876,Dongsoo Han
+b361e4da,Dongman Lee
+24ef504b,Bing Wu
+9fb16135,Kudakwashe Dube
+670ad8f0,Minkyu Lee
+e119c876,Dongsoo Han
+6c8a34a1,Jaeyong Shim
+d14f63f5,Haiyan Xu
+f9b66510,Tetsuya Furukawa
+d0262e7b,Yihua Shi
+07974034,SangKeun Lee
+968e4b01,Chong-Sun Hwang
+1bd0eba8,Heon-Chang Yu
+130f18cd,Xiaochun Yang
+efc7c408,Ge Yu
+7a226912,Guoren Wang
+35a50074,Dan Wang
+3001bf10,Baoyan Song
+163b6a24,Jai-Hyuk Lee
+6f35d894,Yoon-Joon Lee
+405c4135,Pyung-Chul Kim
+71cba980,Yusuke Yokota
+8f3f28c9,Keiji Sugiyama
+8d9ad1e5,Hiroyuki Tarumi
+26119059,Yahiko Kambayashi
+1e1ff6bb,Zhang Lei
+48037874,Xiaoyong Du
+5a1e66f2,Shan Wang
+e159531c,Jianzhong Li
+545e3450,Wen-jun Sun
+51981f1b,Yingshu Li
+092c7daa,Kazutoshi Yokoyama
+bf6b1a70,Satoshi Hakomori
+c4554b26,Ushio Inoue
+77814ade,Ee-Peng Lim
+1dad079e,Hon-Kuan Lee
+48732928,Nan Zhang
+f15c594a,Norbert Ritter
+f69908af,Theo Härder
+9b3633ad,Seung Jin Lim
+4ae0f245,Yiu-Kai Ng
+7df00988,Wensheng Zhou
+757c33bc,Asha Vellaikal
+bc127676,Son K. Dao
+0eee036d,Aizhong Lin
+a1eb11af,John K. Debenham
+6c7054a5,Xiaofang Zhou
+63e4961c,Yanchun Zhang
+a8be250d,Xuemin Lin
+efe9ba5d,Chengfei Liu
+edb11b04,Tok Wang Ling
+8ac4b6dd,Mong-Li Lee
+d19a27bb,Julieanne van Zyl
+a7ae52af,Dan Corbett
+e5ced57a,Millist W. Vincent
+c9fbb4aa,Craig Linn
+0a4f4431,Mengchi Liu
+3d392ccc,Ling Liu
+0f157a4e,Calton Pu
+625e7a0d,Jixue Liu
+e5ced57a,Millist W. Vincent
+230d8ce0,Mukesh K. Mohania
+55ed526c,Hong-Cheu Liu
+fad33198,Jeffrey Xu Yu
+ca4e96b2,Chaiyaporn Chirathamjaree
+cbed3b8d,Lamine Abdat
+c91f5c62,Belhadri Messabih
+025c35c9,Shelton Alexander
+c18ee99c,Paul F. Uhlir
+a4489f28,Marcella Attimonelli
+fdd3c21d,D. Calo
+fe62f681,A. Depascali
+414d942e,M. Porzio
+a06904b8,F. Tanzariello
+286ae870,M. Vitale
+928d1ee6,Cecilia Saccone
+26b88f9f,Adnan Badran
+93831112,Lois D. Blaine
+606beb9d,Michael A. Chinnery
+0115563f,Jacques-Emile Dubois
+c91f5c62,Belhadri Messabih
+abfd2f1e,Jacques Ducloy
+74ffdb1e,Jean-Charles Lamirel
+0e38e19c,Emmanuel Nauer
+b64c089f,Ekkehard Fluck
+e275153d,Henry V. Kehiaian
+7318f87e,Abdoulaye Gaye
+c1c73e53,Nahum D. Gershon
+e2f09faa,William Ruh
+a7b37d78,Brian Dickens
+f19c3743,Joshua LeVasseur
+4c195238,André Heck
+7cf42468,Eberhard R. Hilf
+936af18f,Bernd Diekmann
+b71b886c,Heinrich Stamerjohanns
+11ab250a,Jacob Curdes
+28acd186,Katsuhisa Horimoto
+c4ad12bc,Kunio Oshima
+0f550fda,Akira Tsugita
+bdd1e24d,Jinya Otsuka
+afa94c7b,Arild Jansen
+4a75697a,Pål Sørgaard
+fb97c949,Frank Kappe
+adcc3fac,Barbara E. Kirsop
+35407309,Andy Edwards
+559a72c1,Sidnei Souza
+e58cc8f5,Ashok S. Kolaskar
+9d798593,Prashant S. Naik
+3ab8738b,Michael J. Kurtz
+286ac010,Günther Eichhorn
+9a6b98ab,Stephen S. Murray
+78da7cb0,Carolyn Stern-Grant
+983ae526,Alberto Accomazzi
+96f5946a,M. L. Harrie Lalieu
+2923c015,Lunjiang Ling
+3936faff,Junko Shimura
+0d9b3a9f,Hideaki Sugawara
+0f550fda,Akira Tsugita
+a39bad63,Valdiodio Ndiaye
+73b7542c,Richard J. Olson
+0e078f8e,Robert S. Turner
+b48710ce,Charles T. Garten Jr.
+46a622ae,Bartolomé Orfila
+e946c895,George Papapavlou
+0d5bd20b,Jean-Charles Profizi
+539901f5,Pierre-Guillaume Raverdy
+7bf87e20,Phillipe Darche
+32b55b2e,Bertil Folliot
+e03ce090,Steve F. Rossouw
+0f550fda,Akira Tsugita
+0aba29eb,Joel Winstead
+c1c73e53,Nahum D. Gershon
+98fb9641,Zhihong Xu
+98fb9641,Zhihong Xu
+b9f8f6cf,Fionn Murtagh
+5f714208,Guy Gogniat
+304617de,Michel Auguin
+f0838432,Luc Bianco
+e439c98a,Alain Pegatoquet
+1ccb4e54,Brian Grattan
+e6a4e98c,Greg Stitt
+c3a2be4e,Frank Vahid
+eadba8fd,Peter Green
+f6d948db,Paul Rushton
+74b8a262,Ronnie Beggs
+3fdfb354,Eike Grimpe
+398c0ae1,Frank Oppenheimer
+4f591499,Peter Grun
+5b0838ee,Florin Balasa
+5a455555,Nikil D. Dutt
+246d3d3b,Michael Gschwind
+69a8aeb4,R. K. Gupta
+446f497a,T. Vinod Kumar Gupta
+a3f455a1,Roberto E. Ko
+ab3bf7ad,Rajeev Barua
+c598a51a,Rajesh K. Gupta
+35c0ae98,Giovanni De Micheli
+35745cee,Andreas Hagen
+210adab2,Daniel A. Connors
+e4436e62,Bryan L. Pellom
+22d019d9,Jiwon Hahn
+67118013,Qiang Xie
+582c4c41,Pai H. Chou
+9279c5e3,Gwenolé Corre
+bb8b946b,Eric Senn
+00c81c6b,Pierre Bomel
+4a83972b,Nathalie Julien
+34acb8bb,Eric Martin
+0557d212,Andrea Acquaviva
+2c255bd4,Luca Benini
+3a4cda52,Bruno Riccò
+e1608091,Roberto Costa
+73862c26,Erven Rohou
+9e2faf91,Cagdas Akturan
+02827537,Margarida F. Jacome
+f3cedffc,Vincenza Carchiolo
+1d78b0ff,Michele Malgeri
+46c1f5f5,Giuseppe Mangioni
+f7e5795d,Xiaobo Sharon Hu
+a129c38b,Gang Quan
+b4c702e5,Jones Albuquerque
+59319b68,Claudionor José Nunes Coelho Jr.
+7aab5344,Carlos Frederico Cavalcanti
+6c4f1976,Diógenes Cecilio da Silva Jr.
+3c00ec7b,Antônio Otávio Fernandes
+a40e741b,Philippe Coste
+5fe56048,F. Hessel
+8217fd82,P. LeMarrec
+98ad4ea8,Zoltan Sugar
+e6f2e8a2,M. Romdhani
+8f3ab0f1,Rodolph Suescun
+15ca92cf,Nacer-Eddine Zergainoh
+a56bfeaf,Ahmed Amine Jerraya
+64c02246,Alberto Allara
+9f9091cc,S. Filipponi
+3aa2ff50,Fabio Salice
+f382d718,William Fornaciari
+fc0f666e,Donatella Sciuto
+051dec25,Susan Cotterell
+c3a2be4e,Frank Vahid
+768d06e6,Walid A. Najjar
+021cdabd,Harry Hsieh
+e110424f,José M. Álvarez
+c16b257a,Manuel Díaz
+20fcca07,Luis Llopis
+2d76c624,Ernesto Pimentel
+25805656,José M. Troya
+9658d88e,Andrea Cuomo
+312dd639,R. Anand
+02827537,Margarida F. Jacome
+3722ddbd,Gustavo de Veciana
+7cbb2f11,Raul Camposano
+9db843f7,Mark Underseth
+0063c0ff,Faraydon Karim
+44ffda59,Jian Li
+c598a51a,Rajesh K. Gupta
+d1a9e7ff,Stefano Antoniazzi
+f1e4d9bf,Alessandro Balboni
+f382d718,William Fornaciari
+fc0f666e,Donatella Sciuto
+6d011d5e,Joseph G. D'Ambrosio
+f7e5795d,Xiaobo Sharon Hu
+023d1781,Marnix Arnold
+f781a1a6,Henk Corporaal
+ca5cd6f3,Koen Danckaert
+fe9b090d,Francky Catthoor
+bd8aeefb,Hugo De Man
+023d1781,Marnix Arnold
+f781a1a6,Henk Corporaal
+cdda36a1,Ali Dasdan
+529eee4a,Divya Arora
+57269304,Anand Raghunathan
+2f071356,Srivaths Ravi
+683fead7,Niraj K. Jha
+44333936,Jean-Marc Daveau
+40ccaa8d,Gilberto Fernandes Marchioro
+a56bfeaf,Ahmed Amine Jerraya
+a6e42a10,Giuseppe Ascia
+f98a2d0a,Vincenzo Catania
+11cae6bc,Maurizio Palesi
+e31b6d74,Matthias Deegener
+3288fd75,Sorin A. Huss
+a6e42a10,Giuseppe Ascia
+f98a2d0a,Vincenzo Catania
+11cae6bc,Maurizio Palesi
+4603eb28,Dirk Desmet
+c5f7990d,Michiel Esvelt
+9f1b880f,Prabhat Avasare
+af996cce,Diederik Verkest
+bd8aeefb,Hugo De Man
+8f60cf52,Kubilay Atasu
+227683f3,Günhan Dündar
+13a686c2,Can C. Özturan
+68ad0b91,Luca P. Carloni
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+9605ea83,James Lin
+304617de,Michel Auguin
+23c479d3,Mohamed Belhadj
+7b595ed1,Judith Benzakki
+3cc6774e,C. Carrière
+b783c5f8,Guy Durrieu
+fba88386,Thierry Gautier
+06b39576,Michel Israël
+7e509bf2,Paul Le Guernic
+fc884061,Michel Lemaître
+ac9acbd4,E. Martin
+b10a625b,P. Quinton
+dec1ed38,Laurence Rideau
+7614d3fb,François Rousseau
+da3caa39,Olivier Sentieys
+9c12bc8f,Nagu R. Dhanwada
+4bb80b8a,Ing-Chao Lin
+b58dd56b,Vijaykrishnan Narayanan
+304617de,Michel Auguin
+139a3ddb,Fernand Boéri
+3cc6774e,C. Carrière
+a64da999,Robert P. Dick
+9e0f8a22,David L. Rhodes
+6633face,Wayne Wolf
+e09325d9,Jakob Axelsson
+fdc9be3f,Adam Donlin
+61bd4d44,Abdenour Azzedine
+d7be10ca,Jean-Philippe Diguet
+835fb104,Jean-Luc Pillippe
+e1b5a3f2,Nik Dutt
+d3dc4698,Janos Sztipanovits
+bfdd90dc,Masaki Hirata
+751bdbe4,Felice Balarin
+90d09543,Basant Kumar Dwivedi
+98c8169a,Jan Hoogerbrugge
+e511d952,Paul Stravers
+c7a8ac1a,M. Balakrishnan
+751bdbe4,Felice Balarin
+ec8879cc,Olivier Caron
+bb1f1eca,Vincent Cordonnier
+a1a94101,Philippe Durif
+0710f472,Georges Grimonprez
+8ec707c7,Hyunok Oh
+ff03acc9,Soonhoi Ha
+751bdbe4,Felice Balarin
+beeec1f6,Massimiliano Chiodo
+d7833a12,Attila Jurecska
+d8b8b9e6,Luciano Lavagno
+a79dc6a7,Bassam Tabbara
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+1b8bb2bf,Guangyu Chen
+13eb95ef,Narayanan Vijaykrishnan
+ac4c8c68,Mahmut T. Kandemir
+04d9798b,Mary Jane Irwin
+6026a2dc,Mario Wolczko
+8ec707c7,Hyunok Oh
+ff03acc9,Soonhoi Ha
+751bdbe4,Felice Balarin
+d8b8b9e6,Luciano Lavagno
+cc6d398d,Claudio Passerone
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+5882b758,Yosinori Watanabe
+6b0cbc28,Guang Yang
+90d09543,Basant Kumar Dwivedi
+be885cae,Anshul Kumar
+c7a8ac1a,M. Balakrishnan
+f1e4d9bf,Alessandro Balboni
+f382d718,William Fornaciari
+fc0f666e,Donatella Sciuto
+4d34a801,Tommy King-Yin Cheung
+17e4eb64,Graham R. Hellestrand
+dc3b28c3,Prasert Kanthamanon
+c57620bd,Feng-Shi Su
+dc9692cc,Pao-Ann Hsiung
+266e27f8,Massimo Baleani
+3f51bf0a,Frank Gennari
+3e23a805,Yunjian Jiang
+20ccc653,Yatish Patel
+a779e499,Robert K. Brayton
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+b6cf9492,Martyn Edwards
+e86b8fdd,Neal K. Bambha
+c52c00b0,Shuvra S. Bhattacharyya
+4f31928f,Jürgen Teich
+e8a1b551,Eckart Zitzler
+ed315f97,Stephen A. Edwards
+d4fcfa51,Jwahar R. Bammi
+cd198619,Wido Kruijtzer
+d8b8b9e6,Luciano Lavagno
+5d2a205b,Edwin A. Harcourt
+ed144a42,Mihai T. Lazarescu
+9027de65,Michael Eisenring
+4f31928f,Jürgen Teich
+d77bdae5,Rajeshwari Banakar
+eebb4c64,Stefan Steinke
+96685d0c,Bo-Sik Lee
+c7a8ac1a,M. Balakrishnan
+5ebcc362,Peter Marwedel
+a7d14457,Petru Eles
+398ce7ed,Zebo Peng
+343534fb,Alexa Doboli
+d3ea716c,Sudarshan Banerjee
+5a455555,Nikil D. Dutt
+1b578003,Frank A. Engel
+6bc29317,Johannes Nührenberg
+5bfb6f32,Gerhard Fettweis
+286a07c3,Edna Barros
+de1ff60c,Augusto Sampaio
+b9442350,Cagkan Erbas
+d76d8e90,Selin C. Erbas
+65834ff1,Andy D. Pimentel
+b608361e,I. D. Bates
+bf31e5b3,E. Graeme Chester
+dcf1e29c,D. J. Kinniment
+9ee32adb,João M. Fernandes
+4385b6b4,Ricardo Jorge Machado
+ec5fa668,Henrique D. Santos
+d47dd45d,Tomás Bautista
+ae9af68e,Antonio Núñez
+a65c04b3,Alessandro Fin
+7d57245e,Franco Fummi
+9f24b207,Maurizio Martignano
+425bd3dd,Mirko Signoretto
+0c2794c1,Thomas Benner
+8f63fcd2,Rolf Ernst
+10db6466,Mojy C. Chian
+c76df50f,Zhao Wu
+6633face,Wayne Wolf
+bda5127d,Reinaldo A. Bergamaschi
+db1e3c9d,Grant Martin
+beeec1f6,Massimiliano Chiodo
+9710c2c5,Pan Yu
+94f4db9b,Tulika Mitra
+bda5127d,Reinaldo A. Bergamaschi
+db1e3c9d,Grant Martin
+6633face,Wayne Wolf
+8f63fcd2,Rolf Ernst
+54ce27af,Kees A. Vissers
+7e4c1507,Jack Kouloheris
+582c4c41,Pai H. Chou
+fa181d62,Gaetano Borriello
+b83102cd,Nam Sung Woo
+bda5127d,Reinaldo A. Bergamaschi
+91d1bd99,Youngsoo Shin
+9c12bc8f,Nagu R. Dhanwada
+630dcb3d,Subhrajit Bhattacharya
+ab8b398d,William E. Dougherty
+3119aa18,Indira Nair
+596e6846,John A. Darringer
+cb6626d8,Sarala Paliwal
+f08eff22,Franz Fischer
+2f7a1d94,Annette Muth
+3762abb2,Georg Färber
+f0838432,Luc Bianco
+304617de,Michel Auguin
+5f714208,Guy Gogniat
+e439c98a,Alain Pegatoquet
+b5dbff0d,Josef Fleischmann
+59b1f5fe,Klaus Buchenrieder
+52f00a6c,Rainer Kress
+d5869053,Dag Björklund
+7fdfff49,Johan Lilius
+582c4c41,Pai H. Chou
+fa181d62,Gaetano Borriello
+60bb3b16,Kyung-Ho Kim
+e7f2a7e1,Peter Bjørn-Jørgensen
+1e853849,Jan Madsen
+342ac451,Luca Formaggio
+7d57245e,Franco Fummi
+01eac749,Graziano Pravadelli
+b4b308f7,Per Bjuréus
+dde01035,Mikael Millberg
+9cec9221,Axel Jantsch
+f382d718,William Fornaciari
+63674619,M. Polentarutti
+fc0f666e,Donatella Sciuto
+1c1f864f,Cristina Silvano
+ff602a8c,Jens P. Brage
+1e853849,Jan Madsen
+fd52ca2f,François Clouté
+06c92dcc,Jean-Noël Contensou
+51cf3eff,Daniel Esteve
+3e409ae2,Pascal Pampagnin
+d68e15fe,Philippe Pons
+33f49a55,Yves Favard
+82d2027d,Tao Xu
+8b8ae243,Krishnendu Chakrabarty
+f171c55d,Carlo Brandolese
+f382d718,William Fornaciari
+3aa2ff50,Fabio Salice
+fc0f666e,Donatella Sciuto
+3264950e,Johan Cockx
+2bee456e,Dong-Ik Ko
+c52c00b0,Shuvra S. Bhattacharyya
+f171c55d,Carlo Brandolese
+f382d718,William Fornaciari
+3aa2ff50,Fabio Salice
+fc0f666e,Donatella Sciuto
+f382d718,William Fornaciari
+3aa2ff50,Fabio Salice
+9e52c660,Umberto Bondi
+f9f294e7,Edi Magini
+0a83e0a0,Ansgar Bredenfeld
+f382d718,William Fornaciari
+3aa2ff50,Fabio Salice
+d250e994,Daniele Paolo Scarpazza
+1c2ac449,Oliver Bringmann
+99aae9d4,Wolfgang Rosenstiel
+47367511,Axel Siebenborn
+f382d718,William Fornaciari
+fc0f666e,Donatella Sciuto
+1c1f864f,Cristina Silvano
+d21c548c,Jean-Yves Brunel
+f7fe24df,Erwin A. de Kock
+b331c258,W. M. Kruijtzer
+7e3decd7,H. J. H. N. Kenter
+b0ab2e60,W. J. M. Smits
+f382d718,William Fornaciari
+fc0f666e,Donatella Sciuto
+1c1f864f,Cristina Silvano
+296d855a,Vittorio Zaccaria
+b54e6d6e,Joseph T. Buck
+ab82cc98,Björn Franke
+2d932df3,Michael F. P. O'Boyle
+da781474,Joseph Buck
+dc1d1c2a,Radha Vaidyanathan
+e7c4dc20,Laurent Freund
+35e1f53b,Denis Dupont
+06b39576,Michel Israël
+f5aea2a5,Frédéric Rousseau
+bc194edf,Doug Burger
+817fe317,Catherine H. Gebotys
+9c94f454,Lukai Cai
+37181512,Daniel Gajski
+817fe317,Catherine H. Gebotys
+a5801af6,Y. Zhang
+1f825d2e,Jean Paul Calvez
+aea04ffe,Dominique Heller
+ce5658f4,Olivier Pasquier
+caf8121d,Mark Genoe
+16d2acc9,Christopher K. Lennard
+65bf4f1b,Joachim Kunkel
+60b6a76f,Brian Bailey
+8b7b9d40,Gjalt G. de Jong
+db1e3c9d,Grant Martin
+d74a8408,M. M. Kamal Hashmi
+4d8bdce0,Shay Ben-Chorin
+68fca10a,Anssi Haverinen
+2bc9211d,J. P. Calvez
+319e26f2,D. Isidoro
+d005a9f5,Robert S. Germain
+1b66d1cd,Blake G. Fitch
+2eabb8cf,Aleksandr Rayshubskiy
+87d1092c,Maria Eleftheriou
+0b8166b9,Michael Pitman
+d2703c5b,Frank Suits
+5d5b9f45,Mark Giampapa
+88313fc9,T. J. Christopher Ward
+1f825d2e,Jean Paul Calvez
+ce5658f4,Olivier Pasquier
+1124f43b,J. Peckol
+2c508398,Carlos Carreras
+65992971,Juan Carlos López
+a9e18190,María Luisa López
+78468b88,Luis Sánchez
+05ebbb09,Carlos Delgado Kloos
+e04fb070,Natividad Martínez Madrid
+b3a5ce3f,R. Gerndt
+1be1a6d5,Giuseppe Del Castillo
+2c0ec982,Wolfram Hardt
+59319b68,Claudionor José Nunes Coelho Jr.
+ac52e07a,Jerry Chih-Yuan Yang
+8eeea034,Vincent John Mooney III
+35c0ae98,Giovanni De Micheli
+8b8ae243,Krishnendu Chakrabarty
+61072ba5,Fei Su
+e792ed78,Reinhard Gerndt
+8f63fcd2,Rolf Ernst
+f3071407,François Charot
+17f6df13,Vincent Messé
+14b5e272,Jason Cong
+28c14160,Yiping Fan
+a41bad6e,Guoling Han
+72e30931,Xun Yang
+ec5edcb3,Zhiru Zhang
+70c8f6cd,André Chátelain
+3b359172,Yves Mathys
+2472a04f,Giovanni Placido
+fc7cdf53,Alberto La Rosa
+d8b8b9e6,Luciano Lavagno
+96e67ece,Tony Givargis
+c3a2be4e,Frank Vahid
+5f84f562,Karam S. Chatha
+bbf1170b,Ranga Vemuri
+1df654f6,Thomas Gleerup
+5714a2d2,Hans Holten-Lund
+1e853849,Jan Madsen
+cacc5711,Steen Pedersen
+5f84f562,Karam S. Chatha
+bbf1170b,Ranga Vemuri
+c6d469a4,C. John Glossner
+6a32a603,Mayan Moudgill
+c5d7497c,Daniel Iancu
+dd3ff69b,Gary Nacer
+7b537c37,Sanjay Jinturkar
+4e82c2d3,Stuart Stanley
+27d76604,Michael Samori
+4a7eb6f5,Tanuj Raja
+361c6008,Michael J. Schulte
+a92d92c0,Stamatis Vassiliadis
+1b8bb2bf,Guangyu Chen
+ac4c8c68,Mahmut T. Kandemir
+13eb95ef,Narayanan Vijaykrishnan
+04d9798b,Mary Jane Irwin
+6633face,Wayne Wolf
+5f714208,Guy Gogniat
+304617de,Michel Auguin
+f01b8355,Cécile Belleudy
+ca12ae1e,Guilin Chen
+ac4c8c68,Mahmut T. Kandemir
+13eb95ef,Narayanan Vijaykrishnan
+e21fc52e,Anand Sivasubramaniam
+04d9798b,Mary Jane Irwin
+7ec274f6,Olivier Hébert
+b17a7776,Ivan C. Kraljic
+df48b2c2,Yvon Savaria
+583d85b1,Zhengting He
+2a826d97,Aloysius K. Mok
+ae39dc1d,Thierry Grandpierre
+89bdbc5f,Christophe Lavarenne
+815bf3ed,Yves Sorel
+10d6d534,Andreas Hansson
+6c831005,Kees Goossens
+6123be40,Andrei Radulescu
+2c0ec982,Wolfram Hardt
+99aae9d4,Wolfgang Rosenstiel
+d0838cda,Reiner W. Hartenstein
+686a81b8,Jürgen Becker
+d0838cda,Reiner W. Hartenstein
+686a81b8,Jürgen Becker
+52f00a6c,Rainer Kress
+777bfd6e,Dimitris Lioupis
+a7a2a38a,Apostolos Papagiannis
+07b568f5,Dionysia Psihogiou
+8c708af0,Ananth Hegde
+13eb95ef,Narayanan Vijaykrishnan
+ac4c8c68,Mahmut T. Kandemir
+04d9798b,Mary Jane Irwin
+bbf90c4a,Jinfeng Liu
+582c4c41,Pai H. Chou
+348f4761,Nader Bagherzadeh
+7841537a,Jörg Henkel
+8f63fcd2,Rolf Ernst
+bbf90c4a,Jinfeng Liu
+582c4c41,Pai H. Chou
+348f4761,Nader Bagherzadeh
+f1577acf,Fadi J. Kurdahi
+7841537a,Jörg Henkel
+cfa96502,Yanbing Li
+aaf37946,Wei Ming Lim
+a616e14b,Mohammed Benaissa
+354b4320,Chenjie Yu
+e98654ee,Peter Petrov
+40cfa1bf,Tomas Henriksson
+c6d0b555,Jeffrey Kang
+53a9ccf1,Pieter van der Wolf
+e0f917af,Jie Liu
+a600869d,Marcello Lajolo
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+fbbcf87b,Dirk Herrmann
+7841537a,Jörg Henkel
+8f63fcd2,Rolf Ernst
+dc27e157,Rafael Peset Llopis
+329d3289,Ramanathan Sethuraman
+a0015b36,Carlos A. Alba Pinto
+23de40aa,Harm Peters
+ceea1ba6,Steffen Maul
+af344c8a,Marcel Oosterhuis
+3ebde2e7,Ken Hines
+fa181d62,Gaetano Borriello
+47f5c706,Yung-Hsiang Lu
+2c255bd4,Luca Benini
+35c0ae98,Giovanni De Micheli
+457bd860,Flemming Høeg
+6813d21e,Niels Mellergaard
+41807a7e,Jørgen Staunstrup
+47f5c706,Yung-Hsiang Lu
+d5132ded,Tajana Simunic
+35c0ae98,Giovanni De Micheli
+095ce8a6,H. Peter Hofstee
+70bb97f1,Michael N. Day
+4ffd51f1,Paul Lieverse
+53a9ccf1,Pieter van der Wolf
+9f36667b,Ed F. Deprettere
+265b83ff,Pengyuan Yu
+d6933321,Patrick Schaumont
+88ec641c,Thomas Hollstein
+686a81b8,Jürgen Becker
+fe6f0d78,Andreas Kirschbaum
+513b19ce,Manfred Glesner
+508efee0,Wayne Luk
+f606dcd6,Teddy Wu
+d0561931,Denis Hommais
+84b45eb4,Frédéric Pétrot
+1e4834cd,Ivan Augé
+7330e2ef,Roman L. Lysecky
+c3a2be4e,Frank Vahid
+aa4e57b4,Shinya Honda
+db8f862b,Takayuki Wakabayashi
+0b56bb6f,Hiroyuki Tomiyama
+a5ad32ff,Hiroaki Takada
+1e853849,Jan Madsen
+e7f2a7e1,Peter Bjørn-Jørgensen
+9c10f8cc,Junwei Hou
+6633face,Wayne Wolf
+72d38d5a,Mahesh Mamidipaka
+96f7b7a3,Kamal S. Khouri
+5a455555,Nikil D. Dutt
+a329f7b6,Magdy S. Abadir
+021cdabd,Harry Hsieh
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+fe67b5b2,Paul Marchal
+1d2cb1ee,José Ignacio Gómez
+fe9b090d,Francky Catthoor
+dc9692cc,Pao-Ann Hsiung
+db1e3c9d,Grant Martin
+37181512,Daniel Gajski
+99b2b2ca,David Goodwin
+0a371b11,Patrick Lysaght
+5ebcc362,Peter Marwedel
+672a2af6,Mike Muller
+26bbffd7,Jeff Welser
+dc9692cc,Pao-Ann Hsiung
+db1e3c9d,Grant Martin
+d8b8b9e6,Luciano Lavagno
+002c19f0,Jean Louis-Guerin
+dc9692cc,Pao-Ann Hsiung
+e666499b,Cheng-Yi Lin
+5ebcc362,Peter Marwedel
+817fe317,Catherine H. Gebotys
+443d49cf,Hiroaki Inoue
+45e3f5f5,Akihisa Ikeno
+aefd9407,Masaki Kondo
+95d091dc,Junji Sakai
+992e88eb,Masato Edahiro
+5ebcc362,Peter Marwedel
+37181512,Daniel Gajski
+f7fe24df,Erwin A. de Kock
+bd8aeefb,Hugo De Man
+e3996f81,Mariagiovanna Sami
+7d304a7f,Ingemar Söderquist
+403236e6,Tarek Ben Ismail
+448c95a0,Mohamed Abid
+a56bfeaf,Ahmed Amine Jerraya
+d12e7068,Binu K. Mathew
+a24d014c,Al Davis
+02827537,Margarida F. Jacome
+3722ddbd,Gustavo de Veciana
+9e2faf91,Cagdas Akturan
+45bcaa5b,Sven Mattisson
+1657d9e4,Manoj Kumar Jain
+a2b8c533,Lars Wehmeyer
+eebb4c64,Stefan Steinke
+5ebcc362,Peter Marwedel
+c7a8ac1a,M. Balakrishnan
+ef186aed,Alexander Maxiaguine
+ee5a6060,Samarjit Chakraborty
+bdf13caf,Lothar Thiele
+d1e5a763,Randall S. Janka
+807e7f7e,Linda M. Wills
+ef186aed,Alexander Maxiaguine
+9ff69b6b,Yongxin Zhu
+ee5a6060,Samarjit Chakraborty
+5e365bb2,Weng-Fai Wong
+9cec9221,Axel Jantsch
+4811c7d6,Ingo Sander
+c1cceb04,Peggy B. McGee
+966615d4,Steven M. Nowick
+7258b324,Edward G. Coffman Jr.
+9cec9221,Axel Jantsch
+4811c7d6,Ingo Sander
+9292bb6e,Wenbiao Wu
+820db466,Matthias Meerwein
+08cba4e0,C. Baumgartner
+883ebb72,W. Glauert
+d4aa9dde,D. C. R. Jensen
+1e853849,Jan Madsen
+cacc5711,Steen Pedersen
+b145f1aa,Behzad Mohebbi
+311c2a43,Eliseu Chavez Filho
+b2a93215,Rafael Maestre
+a99389fe,Mark Davies
+f1577acf,Fadi J. Kurdahi
+8d5acf5b,Marek Jersak
+6d2cc1bf,Kai Richter
+191d1ed0,Rafik Henia
+8f63fcd2,Rolf Ernst
+0e1aef9d,Frank Slomka
+e2cbf5fb,Paul Morgan
+b777ed84,Richard Taylor
+fafe4821,Japheth Hossell
+5a200229,George Bruce
+440c9c38,Barry O'Rourke
+3e23a805,Yunjian Jiang
+a779e499,Robert K. Brayton
+59d849ab,Trevor N. Mudge
+140d0d99,Yujia Jin
+c7a7d8ad,Nadathur Satish
+28c7de56,Kaushik Ravindran
+d6965059,Kurt Keutzer
+a534d334,Christian Müller-Schloer
+5bc92312,Charlie Johnson
+26bbffd7,Jeff Welser
+672a2af6,Mike Muller
+2b37ca31,Hyunuk Jung
+ff03acc9,Soonhoi Ha
+34f62157,Radu Muresan
+817fe317,Catherine H. Gebotys
+0b493c19,Ismail Kadayif
+ac4c8c68,Mahmut T. Kandemir
+b3d758da,Ibrahim Kolcu
+1b8bb2bf,Guangyu Chen
+34f62157,Radu Muresan
+9a49cf01,Haleh Vahedi
+ef4097cb,Y. Zhanrong
+d8322871,Stefano Gregori
+03701a7b,Asawaree Kalavade
+313ec68e,Edward A. Lee
+3bc7014d,Praveen K. Murthy
+09c1774c,Etan G. Cohen
+dbaa4b5a,Steve Rowland
+2587b0df,Sankalp Kallakuri
+6967f33e,Alex Doboli
+29478b7f,G. D. Nagendra
+50588ec0,V. G. Prem Kumar
+719a0d4e,B. S. Sheshadri Chakravarthy
+ac4c8c68,Mahmut T. Kandemir
+0b493c19,Ismail Kadayif
+502682cf,Hemendra Singh Negi
+94f4db9b,Tulika Mitra
+e4581b43,Abhik Roychoudhury
+ac4c8c68,Mahmut T. Kandemir
+0b493c19,Ismail Kadayif
+ca12ae1e,Guilin Chen
+ed7da568,Erland Nilsson
+58d64a3e,Johnny Öberg
+7e3decd7,H. J. H. N. Kenter
+cc6d398d,Claudio Passerone
+b0ab2e60,W. J. M. Smits
+5882b758,Yosinori Watanabe
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+581ede29,Sungtaek Lim
+c590f920,Jihong Kim
+ec4316b9,Kiyoung Choi
+6373aded,Vida Kianzad
+80b7deda,Sankalita Saha
+93686562,Jason Schlessman
+858c3698,Gaurav Aggarwal
+c52c00b0,Shuvra S. Bhattacharyya
+6633face,Wayne Wolf
+95ba5965,Rama Chellappa
+4fd8a73b,Hermann Eul
+076b3f3b,Juanjo Noguera
+7a1a3a09,Rosa M. Badia
+f85704bb,Bart Kienhuis
+9f36667b,Ed F. Deprettere
+54ce27af,Kees A. Vissers
+53a9ccf1,Pieter van der Wolf
+076b3f3b,Juanjo Noguera
+7a1a3a09,Rosa M. Badia
+f85704bb,Bart Kienhuis
+ba5591e8,Edwin Rijpkema
+9f36667b,Ed F. Deprettere
+2ac7c9dd,Ümit Y. Ogras
+b5ac3aa0,Jingcao Hu
+ba138c75,Radu Marculescu
+f7d0a3e8,Sungchan Kim
+830cbeb0,Chaeseok Im
+ff03acc9,Soonhoi Ha
+8ec707c7,Hyunok Oh
+5a455555,Nikil D. Dutt
+ff03acc9,Soonhoi Ha
+f7d0a3e8,Sungchan Kim
+830cbeb0,Chaeseok Im
+ff03acc9,Soonhoi Ha
+eaabe194,Rainer Ohlendorf
+0c1688cc,Andreas Herkersdorf
+5c2bb734,Thomas Wild
+0982903d,Youngsoo Kim
+8eab792b,Suleyman Sair
+452776a1,Royan H. L. Ong
+284a816f,Michael J. Pont
+3019c7fb,Shinji Kimura
+f315d0f3,Yasufumi Itou
+e6ec3029,Makoto Hirao
+4b617a42,Katsumasa Watanabe
+c02544dc,Mitsuteru Yukishita
+fa9a719c,Akira Nagoya
+2998c299,Frank E. B. Ophelders
+ee5a6060,Samarjit Chakraborty
+f781a1a6,Henk Corporaal
+354b4320,Chenjie Yu
+e98654ee,Peter Petrov
+288a9f78,Per Gunnar Kjeldsberg
+fe9b090d,Francky Catthoor
+5c05d3bb,Einar J. Aas
+690782fe,Avishay Orpaz
+a324e3a8,Shlomo Weiss
+2f17c47b,Peter Voigt Knudsen
+1e853849,Jan Madsen
+a5531279,Ross B. Ortega
+fa181d62,Gaetano Borriello
+2f17c47b,Peter Voigt Knudsen
+1e853849,Jan Madsen
+8d445b1e,Ozcan Ozturk
+ac4c8c68,Mahmut T. Kandemir
+04d9798b,Mary Jane Irwin
+2f17c47b,Peter Voigt Knudsen
+1e853849,Jan Madsen
+11cae6bc,Maurizio Palesi
+96e67ece,Tony Givargis
+503e37f3,Gernot Koch
+6cb2fe55,Udo Kebschull
+99aae9d4,Wolfgang Rosenstiel
+dd7cff41,Antonis Papanikolaou
+53598787,F. Lobmaier
+0135b13f,Hua Wang
+a5119d81,Miguel Miranda
+fe9b090d,Francky Catthoor
+4b05113b,Tim Kogel
+fee4706a,Malte Doerper
+3e2596a2,Andreas Wieferink
+c4e14d52,Rainer Leupers
+12403b51,Gerd Ascheid
+f1354a31,Heinrich Meyr
+ee5ffe68,Serge Goossens
+28b4f37d,Chanik Park
+2eb89594,Jaeyu Seo
+438b9e21,Sunghwan Bae
+43842c27,Hyojun Kim
+1287dc6e,Shinhan Kim
+0e5c43d0,Bumsoo Kim
+b4850630,Paul Kohout
+9676fa4e,Brinda Ganesh
+34384a21,Bruce L. Jacob
+53a04d64,Sudeep Pasricha
+5a455555,Nikil D. Dutt
+2c0eb2e4,Mohamed Ben-Romdhane
+31046607,Arezou Koohi
+348f4761,Nader Bagherzadeh
+6b00b5d8,Chengzi Pan
+cc6d398d,Claudio Passerone
+b54e3f38,Roberto Passerone
+f4638ba2,Claudio Sansoè
+19b4c995,Jonathan Martin
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+e327c86c,Rick McGeer
+faf5b655,Vladimir Kotlyar
+6a32a603,Mayan Moudgill
+64bfa552,JoAnn M. Paul
+446b1358,Christian Kreiner
+441f942c,Christian Steger
+53c1ad16,Egon Teiniker
+a0bc9bbf,Reinhold Weiss
+64bfa552,JoAnn M. Paul
+e2ba41d9,Christopher M. Eatedali
+0a74b199,Donald E. Thomas
+84cb00e6,Rajeev Krishna
+e355fb7a,Scott A. Mahlke
+baf394e2,Todd M. Austin
+92ebbda0,Bill Lin
+bec72f71,Steven Vercauteren
+bd8aeefb,Hugo De Man
+cd198619,Wido Kruijtzer
+fba5abac,Winfried Gehrke
+04d0ba7d,Víctor Reyes
+8584a2c1,Ghiath Alkadi
+3345aa6b,Thomas Hinz
+be50de8e,Jorn Jöchalsky
+1851304f,Bruno Steux
+64bfa552,JoAnn M. Paul
+13f0cdc4,Simon N. Peffers
+0a74b199,Donald E. Thomas
+d4c966c3,Kayhan Küçükçakar
+64bfa552,JoAnn M. Paul
+0a74b199,Donald E. Thomas
+a07428da,Alex Bobrek
+1d24f6da,Vinu Vijay Kumar
+8c0df0c7,John Lach
+1119942c,Pierre G. Paulin
+ceed6e70,Chuck Pilkington
+cf8de8ae,Michel Langevin
+d7bccf94,Essaid Bensoudane
+67a0e456,Gabriela Nicolescu
+ddea986e,Sanjaya Kumar
+66c7789c,Fred Rose
+16706ecb,Cristiano Pereira
+288c5e85,Jeremy Lau
+51b4dd8e,Brad Calder
+c598a51a,Rajesh K. Gupta
+38eb3a2e,Kanishka Lahiri
+57269304,Anand Raghunathan
+e98654ee,Peter Petrov
+bde80e7d,Alex Orailoglu
+38eb3a2e,Kanishka Lahiri
+57269304,Anand Raghunathan
+11d0d43b,Sujit Dey
+e98654ee,Peter Petrov
+bde80e7d,Alex Orailoglu
+a600869d,Marcello Lajolo
+d8b8b9e6,Luciano Lavagno
+afe2fe8f,Maurizio Rebaudengo
+2b4e9b74,Matteo Sonza Reorda
+5fb20243,Massimo Violante
+81ca540c,Jonas Plantin
+652a14f4,Erik Stoy
+a600869d,Marcello Lajolo
+fca335a3,Mihai Lazarescu
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+8e4fa909,François Pogodalla
+8202f06f,Richard Hersemeule
+2db6c806,Pierre Coulomb
+a600869d,Marcello Lajolo
+57269304,Anand Raghunathan
+11d0d43b,Sujit Dey
+d8b8b9e6,Luciano Lavagno
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+f34b79bc,Hua Lin
+6633face,Wayne Wolf
+084cc063,Chin-Hsien Wu
+d8b8b9e6,Luciano Lavagno
+beeec1f6,Massimiliano Chiodo
+44e8c197,Paolo Giusto
+d7833a12,Attila Jurecska
+021cdabd,Harry Hsieh
+9d6d0982,S. Yee
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+4b466fef,Kei Suzuki
+43471546,Luigi Pomante
+9f3d8efb,Jaehwan Lee
+8eeea034,Vincent John Mooney III
+c1313858,Paul Pop
+a7d14457,Petru Eles
+398ce7ed,Zebo Peng
+cd76c80d,Sunghyun Lee
+046afbbe,Sungjoo Yoo
+ec4316b9,Kiyoung Choi
+766d4a4d,Traian Pop
+a7d14457,Petru Eles
+398ce7ed,Zebo Peng
+95afe0e7,Haris Lekatsas
+7841537a,Jörg Henkel
+6633face,Wayne Wolf
+766d4a4d,Traian Pop
+a7d14457,Petru Eles
+398ce7ed,Zebo Peng
+f259d0ad,Anthony Leroy
+fe67b5b2,Paul Marchal
+075f8b94,Adelina Shickova
+fe9b090d,Francky Catthoor
+add50aeb,Frédéric Robert
+af996cce,Diederik Verkest
+c1313858,Paul Pop
+a7d14457,Petru Eles
+398ce7ed,Zebo Peng
+a2b657ec,Stan Y. Liao
+c1313858,Paul Pop
+a7d14457,Petru Eles
+766d4a4d,Traian Pop
+398ce7ed,Zebo Peng
+a129c38b,Gang Quan
+1ff38d9a,James P. Davis
+69ec8995,Siddhaveerasharan Devarkal
+533a9871,Duncan A. Buell
+00c4ddf5,Swarnalatha Radhakrishnan
+8c40b069,Hui Guo
+61ebdf10,Sri Parameswaran
+f2124fb8,Sreeranga P. Rajan
+430a52f5,Masahiro Fujita
+97552db2,Ashok Sudarsanam
+0ea8774a,Sharad Malik
+56e272e7,Daler N. Rakhmatov
+679ac860,Sarma B. K. Vrudhula
+ce14c97a,Dinesh Ramanathan
+cdda36a1,Ali Dasdan
+c598a51a,Rajesh K. Gupta
+d123e638,N. Ranganathan
+428c2b0d,Ashok K. Murugavel
+40fd12f5,Tarvo Raudvere
+4811c7d6,Ingo Sander
+0f5795d1,Ashish Kumar Singh
+9cec9221,Axel Jantsch
+71ec1929,Anders P. Ravn
+41807a7e,Jørgen Staunstrup
+7fc10797,Mehrdad Reshadi
+44385245,Nikhil Bansal
+cec782cd,Prabhat Mishra
+5a455555,Nikil D. Dutt
+7fc10797,Mehrdad Reshadi
+37181512,Daniel Gajski
+7fc10797,Mehrdad Reshadi
+cec782cd,Prabhat Mishra
+04d0ba7d,Víctor Reyes
+d47dd45d,Tomás Bautista
+e7aad64d,Gustavo Marrero Callicó
+ae9af68e,Antonio Núñez
+cd198619,Wido Kruijtzer
+952d04f8,Kyoungseok Rha
+ec4316b9,Kiyoung Choi
+9e0f8a22,David L. Rhodes
+6633face,Wayne Wolf
+04333948,Fredy Rivera
+906ec2a6,Marcos Sanchez-Elez
+a2a9815c,Milagros Fernández
+ff5896cb,Román Hermida
+348f4761,Nader Bagherzadeh
+79524eea,Edgar L. Romero
+d6faf695,Marius Strum
+12d39931,Wang Jiang Chau
+66c7789c,Fred Rose
+ffe9e52e,Todd Carpenter
+ddea986e,Sanjaya Kumar
+e72c841d,John Shackleton
+777b0fea,Todd Steeves Honeywell
+79f38735,Jeffry T. Russell
+931c750f,Martijn J. Rutten
+1cd6d253,Jos T. J. van Eijndhoven
+802d9f78,Evert-Jan D. Pol
+e3996f81,Mariagiovanna Sami
+fc0f666e,Donatella Sciuto
+1c1f864f,Cristina Silvano
+296d855a,Vittorio Zaccaria
+4811c7d6,Ingo Sander
+9cec9221,Axel Jantsch
+e87d63ff,Adriano Sarmento
+56d4a869,Lobna Kriaa
+c91c3be3,Arnaud Grasset
+94209d56,Mohamed-Wassim Youssef
+433c5e17,Aimen Bouchhima
+f5aea2a5,Frédéric Rousseau
+5d8d6448,Wander O. Cesário
+a56bfeaf,Ahmed Amine Jerraya
+fc0f666e,Donatella Sciuto
+3aa2ff50,Fabio Salice
+43471546,Luigi Pomante
+f382d718,William Fornaciari
+d3bd8d88,Mohamed Shalan
+8eeea034,Vincent John Mooney III
+40f50337,Seng Lin Shee
+61ebdf10,Sri Parameswaran
+79cbc1ff,Newton Cheung
+50c4413c,Michael Sheliga
+476f5733,Nelson L. Passos
+a4fb27b2,Edwin Hsing-Mean Sha
+91d1bd99,Youngsoo Shin
+ec4316b9,Kiyoung Choi
+86b72a79,Dongwan Shin
+fa0ec26d,Andreas Gerstlauer
+7673025f,Rainer Dömer
+f6f61778,Daniel D. Gajski
+6324783a,Dongkun Shin
+c590f920,Jihong Kim
+1d7ea86f,Pun H. Shiu
+34f89284,Yudong Tan
+8eeea034,Vincent John Mooney III
+9cad3a5f,Wen-Tsong Shiue
+5d1907c3,Aviral Shrivastava
+ff7371bd,Eugene Earlie
+5a455555,Nikil D. Dutt
+a4f445bb,Alexandru Nicolau
+5d1907c3,Aviral Shrivastava
+ff7371bd,Eugene Earlie
+5a455555,Nikil D. Dutt
+a4f445bb,Alexandru Nicolau
+47367511,Axel Siebenborn
+1c2ac449,Oliver Bringmann
+99aae9d4,Wolfgang Rosenstiel
+303e7c7e,Julio Leao da Silva Jr.
+eb54c41e,Marco Sgroi
+eb0069e8,Fernando De Bernardinis
+df616040,Suet-Fei Li
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+266660c2,Jan M. Rabaey
+0e1aef9d,Frank Slomka
+2e320427,Matthias Dörfel
+3be979a2,Ralf Münzenberger
+0e1aef9d,Frank Slomka
+37a4ad62,Jürgen Zant
+01cce0fb,Lennard Lambert
+1b183b4e,Juha-Pekka Soininen
+6ac438d9,Jari Kreku
+0d5e6e63,Yang Qu
+deeca64f,Martti Forsell
+6b49e545,Todor Stefanov
+9f36667b,Ed F. Deprettere
+6b49e545,Todor Stefanov
+f85704bb,Bart Kienhuis
+9f36667b,Ed F. Deprettere
+e6a4e98c,Greg Stitt
+c3a2be4e,Frank Vahid
+caa7881e,Gordon McGregor
+af3587ac,Brian Einloth
+89b2ae22,Karsten Strehl
+bdf13caf,Lothar Thiele
+998fb2d9,Dirk Ziegenbein
+8f63fcd2,Rolf Ernst
+4f31928f,Jürgen Teich
+ce71c1d5,Shailesh Sutarwala
+1119942c,Pierre G. Paulin
+b38ea589,Fumio Suzuki
+259aea01,Hisao Koizumi
+acba192d,M. Hiramine
+dc763447,K. Yamamoto
+35658566,Hiroto Yasuura
+68abd17b,K. Okino
+7ea2b70e,Vishnu Swaminathan
+8b8ae243,Krishnendu Chakrabarty
+7ea2b70e,Vishnu Swaminathan
+8b8ae243,Krishnendu Chakrabarty
+e976e7e9,S. Sitharama Iyengar
+d3dc4698,Janos Sztipanovits
+c6d469a4,C. John Glossner
+59d849ab,Trevor N. Mudge
+726dec86,Chris Rowen
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+6633face,Wayne Wolf
+f3bd8436,Feng Zhao
+fd8bfd73,Radoslaw Szymanek
+12556179,Krzysztof Kuchcinski
+a79dc6a7,Bassam Tabbara
+19e11819,Abdallah Tabbara
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+4f31928f,Jürgen Teich
+f8ed0db6,Tobias Blickle
+bdf13caf,Lothar Thiele
+4f31928f,Jürgen Teich
+e8a1b551,Eckart Zitzler
+c52c00b0,Shuvra S. Bhattacharyya
+c2d3b8aa,Christian Tenllado
+67cd0f41,Luis Piñuel
+d5a12125,Manuel Prieto
+aaede834,Francisco Tirado
+fe9b090d,Francky Catthoor
+013f7181,Markus Theißinger
+e511d952,Paul Stravers
+8936e609,Holger Veit
+0a74b199,Donald E. Thomas
+64bfa552,JoAnn M. Paul
+13f0cdc4,Simon N. Peffers
+f87158ec,Sandra J. Weber
+3e114f45,Neal K. Tibrewala
+64bfa552,JoAnn M. Paul
+0a74b199,Donald E. Thomas
+0b56bb6f,Hiroyuki Tomiyama
+5a455555,Nikil D. Dutt
+2fba1050,Sid Ahmed Ali Touati
+ba4cc5b2,Manish Vachharajani
+4b83c7f9,Neil Vachharajani
+0ea8774a,Sharad Malik
+a4c84584,David I. August
+c3a2be4e,Frank Vahid
+c3a2be4e,Frank Vahid
+96e67ece,Tony Givargis
+c3a2be4e,Frank Vahid
+99d1837c,Thuy Dm Le
+c3a2be4e,Frank Vahid
+db2191ba,Linus Tauro
+bab2d9da,Geert Vanmeerbeeck
+d6933321,Patrick Schaumont
+654d7d7b,Serge Vernalde
+ac9793e2,Marc Engels
+86ee2976,Ivo Bolsens
+fba45c16,Mauricio Varea
+16c2a098,Bashir M. Al-Hashimi
+020c8784,Luis Alejandro Cortés
+a7d14457,Petru Eles
+398ce7ed,Zebo Peng
+4debeb78,Girish Venkataramani
+0ad96329,Tiberiu Chelcea
+db607b40,Seth Copen Goldstein
+29d4440b,Tobias Bjerregaard
+b268fc77,Manish Verma
+a2b8c533,Lars Wehmeyer
+5ebcc362,Peter Marwedel
+e04e561a,Frederik Vermeulen
+fe9b090d,Francky Catthoor
+af996cce,Diederik Verkest
+bd8aeefb,Hugo De Man
+a4ff1ada,Seppo Virtanen
+7fdfff49,Johan Lilius
+54ce27af,Kees A. Vissers
+0a03fcca,Markus Voss
+526f0fd3,Oliver Hammerschmidt
+0a03fcca,Markus Voss
+403236e6,Tarek Ben Ismail
+a56bfeaf,Ahmed Amine Jerraya
+eddc21f5,Karl-Heinz Kapp
+71706772,Harald P. E. Vranken
+13d79748,M. P. J. Stevens
+481365af,M. T. M. Segers
+e9b4c008,Miljan Vuletic
+7772c226,Christophe Dubach
+a54c583d,Laura Pozzi
+2c065425,Paolo Ienne
+e281da66,Shaojie Wang
+0ea8774a,Sharad Malik
+04535366,Scott J. Weber
+d6965059,Kurt Keutzer
+04535366,Scott J. Weber
+fdbf12f8,Matthew W. Moskewicz
+fae9f0f6,Matthias Gries
+9ebe6d41,Christian Sauer
+d6965059,Kurt Keutzer
+a324e3a8,Shlomo Weiss
+8f104df8,Shay Beren
+66e78298,Jacob White
+3e2596a2,Andreas Wieferink
+c4e14d52,Rainer Leupers
+12403b51,Gerd Ascheid
+f1354a31,Heinrich Meyr
+011248e7,Tom Michiels
+48b2b443,Achim Nohl
+4b05113b,Tim Kogel
+6c787379,Jörg Wilberg
+7cbb2f11,Raul Camposano
+99aae9d4,Wolfgang Rosenstiel
+d74ca110,Jonathan Wilmot
+95ca9c2b,John Wilson
+0c1b00a8,Deborah Wilson
+10263acd,Daniel Dayton
+368dd9ba,R. Todd Hansell
+6633face,Wayne Wolf
+53a9ccf1,Pieter van der Wolf
+f7fe24df,Erwin A. de Kock
+40cfa1bf,Tomas Henriksson
+cd198619,Wido Kruijtzer
+28db7da0,Gerben Essink
+53a9ccf1,Pieter van der Wolf
+4ffd51f1,Paul Lieverse
+8f696a29,Mudit Goel
+099caacc,David La Hei
+54ce27af,Kees A. Vissers
+6633face,Wayne Wolf
+a35e0902,Andrew Wolfe
+2935732a,Steve Chinatti
+4b145881,Ravi Koshy
+d0c2c5bf,Gary Slater
+37cf3a3f,Spencer Sun
+cdb8439a,Francis G. Wolff
+e1030130,Michael J. Knieser
+91af0746,Daniel J. Weyer
+59fcb08c,Christos A. Papachristou
+c4e35710,Chun Wong
+fe67b5b2,Paul Marchal
+fa6853e6,Peng Yang
+644690b5,Youfeng Wu
+bb30838d,Mauricio Breternitz Jr.
+41ebeb64,Herbert H. J. Hum
+e4785f5d,Ramesh V. Peri
+d3057681,Jay Pickett
+084cc063,Chin-Hsien Wu
+01f26682,Tei-Wei Kuo
+f138bebf,Chia-Lin Yang
+1061582d,Haisang Wu
+adb0500b,Binoy Ravindran
+ba70d661,E. Douglas Jensen
+b125ad06,Peng Li
+f0eb854f,Fen Xie
+180a4947,Margaret Martonosi
+0ea8774a,Sharad Malik
+56af2ced,Haiyong Xie
+b0c5ab6e,Li Zhao
+6c0a69c2,Laxmi N. Bhuyan
+42cc9699,Chun Xue
+bcff66c0,Zili Shao
+3a664179,Meilin Liu
+a4fb27b2,Edwin Hsing-Mean Sha
+fa6853e6,Peng Yang
+fe9b090d,Francky Catthoor
+61842a7d,Lei Yang
+a64da999,Robert P. Dick
+95afe0e7,Haris Lekatsas
+6a3db67b,Srimat T. Chakradhar
+9de0b0d3,Bo Yang
+c900b4c5,Ramesh Karri
+5db3c673,Shenglin Yang
+d6933321,Patrick Schaumont
+f6e29d10,Ingrid Verbauwhede
+8f0a9553,Youngmin Yi
+1bc1f084,Dohyung Kim
+ff03acc9,Soonhoi Ha
+046afbbe,Sungjoo Yoo
+ec4316b9,Kiyoung Choi
+046afbbe,Sungjoo Yoo
+ec4316b9,Kiyoung Choi
+046afbbe,Sungjoo Yoo
+67a0e456,Gabriela Nicolescu
+b2fca210,Damien Lyonnard
+0f11740d,Amer Baghdadi
+a56bfeaf,Ahmed Amine Jerraya
+046afbbe,Sungjoo Yoo
+952d04f8,Kyoungseok Rha
+bba81f21,Youngchul Cho
+0612ba12,Jinyong Jung
+ec4316b9,Kiyoung Choi
+3b0dc96c,Haobo Yu
+fa0ec26d,Andreas Gerstlauer
+37181512,Daniel Gajski
+ef4199db,Chuanjun Zhang
+f3bd8436,Feng Zhao
+e0f917af,Jie Liu
+3364af66,Jim Reich
+c4bcee18,Maurice Chu
+a3fc993b,Juan Liu
+ad9d1426,Tao Zhou
+f7e5795d,Xiaobo Sharon Hu
+a4fb27b2,Edwin Hsing-Mean Sha
+3300deff,Xiangrong Zhou
+e98654ee,Peter Petrov
+02a8d2de,Jianwen Zhu
+37181512,Daniel Gajski
+4ee46ae4,Qiang Zhu
+874be16e,Ryosuke Oishi
+06add089,Takashi Hasegawa
+bde9d56a,Tsuneo Nakata
+b1e0e3e6,Xinping Zhu
+07357f33,Wei Qin
+0ea8774a,Sharad Malik
+bc7d701a,Qingfeng Zhuge
+bcff66c0,Zili Shao
+9718442a,Bin Xiao
+a4fb27b2,Edwin Hsing-Mean Sha
+998fb2d9,Dirk Ziegenbein
+8f63fcd2,Rolf Ernst
+6d2cc1bf,Kai Richter
+4f31928f,Jürgen Teich
+bdf13caf,Lothar Thiele
+fe1a0a63,Heiko Zimmer
+9cec9221,Axel Jantsch
+b1787869,Antoine Scherrer
+f0179d8b,Antoine Fraboulet
+12cefb75,Tanguy Risset
+07357f33,Wei Qin
+03cf4130,Joseph D'Errico
+b1e0e3e6,Xinping Zhu
+030b8679,Minyoung Kim
+d3ea716c,Sudarshan Banerjee
+6fd4c5f6,Nikil Dutt
+e77ffc0d,Nalini Venkatasubramanian
+b61cddfb,Aseem Gupta
+5a455555,Nikil D. Dutt
+f1577acf,Fadi J. Kurdahi
+96f7b7a3,Kamal S. Khouri
+a329f7b6,Magdy S. Abadir
+7be04f93,Hayden Kwok-Hay So
+d63e7185,Artem Tkachenko
+960e7763,Robert W. Brodersen
+9cb5428d,Nicola Bombieri
+7d57245e,Franco Fummi
+5503bd28,Davide Quaglia
+cd917e9f,Roshan G. Ragel
+61ebdf10,Sri Parameswaran
+aea9d5fd,Yoshimi Furukawa
+64632776,Seiji Kawamura
+c2c80c97,Wen-Wen Hsieh
+c3207c63,Po-Yuan Chen
+5b9f872e,TingTing Hwang
+9583cc7a,Mohammad Abdullah Al Faruque
+11f3bee6,Gereon Weiss
+7841537a,Jörg Henkel
+02710bed,Sungpack Hong
+046afbbe,Sungjoo Yoo
+7a99db99,Sheayun Lee
+b073408b,Sangwoo Lee
+c28b30d6,Hye Jeong Nam
+681d2730,Bum-Seok Yoo
+fc6dd98e,Jaehyung Hwang
+227a5d1f,Donghyun Song
+e021eaa8,Janghwan Kim
+236011b2,Jeongeun Kim
+5c900694,HoonSang Jin
+56e55e17,Kyu-Myung Choi
+ff715e65,Jeong-Taek Kong
+b9c851d7,Soo-Kwan Eo
+4f30050e,Kevin Fan
+ba6718e0,Manjunath Kudlur
+f1c0f0cb,Hyunchul Park
+e355fb7a,Scott A. Mahlke
+359b865e,Hristo Nikolov
+6b49e545,Todor Stefanov
+9f36667b,Ed F. Deprettere
+24f2d7b5,Carlo Galuzzi
+d0ec122e,Elena Moscu Panainte
+a9c20778,Yana Yankova
+afcec382,Koen Bertels
+a92d92c0,Stamatis Vassiliadis
+94d0ccbe,Arne Hamann
+5767816e,Razvan Racu
+8f63fcd2,Rolf Ernst
+86b72a79,Dongwan Shin
+fa0ec26d,Andreas Gerstlauer
+512c8217,Junyu Peng
+7673025f,Rainer Dömer
+f6f61778,Daniel D. Gajski
+dd7cff41,Antonis Papanikolaou
+9c7935d2,T. Grabner
+a5119d81,Miguel Miranda
+774b85eb,Philippe Roussel
+fe9b090d,Francky Catthoor
+00c4ddf5,Swarnalatha Radhakrishnan
+8c40b069,Hui Guo
+61ebdf10,Sri Parameswaran
+aeb36651,Aleksandar Ignjatovic
+529eee4a,Divya Arora
+57269304,Anand Raghunathan
+2f071356,Srivaths Ravi
+683fead7,Niraj K. Jha
+89272faf,Seung Eun Lee
+348f4761,Nader Bagherzadeh
+2ce18aae,Wolfgang Mueller
+dae6f562,Yves Vanderperren
+dbc44a0f,Bita Gorjiara
+7fc10797,Mehrdad Reshadi
+18de50f7,Pramod Chandraiah
+37181512,Daniel Gajski
+ffeefd22,Hiroaki Tanaka
+dc8336b5,Yoshinori Takeuchi
+ce3b25aa,Keishi Sakanushi
+40fa7155,Masaharu Imai
+156bd5d2,Yutaka Ota
+cbec4a40,Nobu Matsumoto
+3e41f55b,Masaki Nakagawa
+11cae6bc,Maurizio Palesi
+c7c61c42,Rickard Holsmark
+67f400cb,Shashi Kumar
+f98a2d0a,Vincenzo Catania
+b075b7b2,Gunar Schirner
+7673025f,Rainer Dömer
+5da2c060,Henrik Lipskoch
+64486b20,Karsten Albers
+0e1aef9d,Frank Slomka
+1c483d34,Arun Kejariwal
+9eaf8df2,Alexander V. Veidenbaum
+a4f445bb,Alexandru Nicolau
+5a434167,Milind Girkar
+ba99ce74,Xinmin Tian
+2e9cbd8e,Hideki Saito
+ed5ec698,Ai-Hsin Liu
+a64da999,Robert P. Dick
+4f31928f,Jürgen Teich
+93311f8a,Puru Choudhary
+59b6be17,Diana Marculescu
+3fe15fb1,Manuel Hohenauer
+227fbc5d,Christoph Schumacher
+c4e14d52,Rainer Leupers
+12403b51,Gerd Ascheid
+f1354a31,Heinrich Meyr
+af2d2c0b,Hans van Someren
+e2adbd6a,Simon Schliecker
+e4b82d20,Matthias Ivers
+8f63fcd2,Rolf Ernst
+5b6fe45f,Alessandro G. Di Nuovo
+11cae6bc,Maurizio Palesi
+9b0bcd06,Davide Patti
+a6e42a10,Giuseppe Ascia
+f98a2d0a,Vincenzo Catania
+817fe317,Catherine H. Gebotys
+cef497f3,Brian A. White
+705d634a,Christopher D. Gill
+ba6718e0,Manjunath Kudlur
+4f30050e,Kevin Fan
+e355fb7a,Scott A. Mahlke
+fd4fe6fa,Martijn Coenen
+f36be3d3,Srinivasan Murali
+6123be40,Andrei Radulescu
+6c831005,Kees Goossens
+35c0ae98,Giovanni De Micheli
+a1b73069,Krisztián Flautner
+66dc780a,Giovanni Beltrame
+11274eb8,Dario Bruschi
+fc0f666e,Donatella Sciuto
+1c1f864f,Cristina Silvano
+40f50337,Seng Lin Shee
+d9ad2edc,Andrea Erdos
+61ebdf10,Sri Parameswaran
+3b863afb,Jeffrey Namkung
+1bc1f084,Dohyung Kim
+c598a51a,Rajesh K. Gupta
+6c912feb,Igor Kozintsev
+ea5e87b0,Jean-Yves Bouguet
+ffd94847,Carole Dulong
+adfe9bac,Krishnan Srinivasan
+5f84f562,Karam S. Chatha
+d1e40de1,Yongsoo Joo
+0bf3bf1d,Yongseok Choi
+28b4f37d,Chanik Park
+572053dc,Sung Woo Chung
+5131abf4,Eui-Young Chung
+0ede790c,Naehyuck Chang
+189c73da,Maarten Wiggers
+270b16cf,Marco Bekooij
+fa95f97b,Pierre G. Jansen
+1733122e,Gerard J. M. Smit
+53a04d64,Sudeep Pasricha
+920a68f9,Young-Hwan Park
+f1577acf,Fadi J. Kurdahi
+5a455555,Nikil D. Dutt
+4af5c35c,Ilya Issenin
+6fd4c5f6,Nikil Dutt
+b5f23c88,Selim Gurun
+9604c06d,Chandra Krintz
+ba96ccd4,Wonbok Lee
+f04782da,Kimish Patel
+ac7d6b08,Massoud Pedram
+affc9e3b,Pilok Lim
+08ff78b5,Taewhan Kim
+5d45d129,Balaji Raman
+ee5a6060,Samarjit Chakraborty
+c133de1b,Pier Stanislao Paolucci
+a56bfeaf,Ahmed Amine Jerraya
+c4e14d52,Rainer Leupers
+bdf13caf,Lothar Thiele
+7a9b2192,Piero Vicini
+22c7431c,Jude Angelo Ambrose
+cd917e9f,Roshan G. Ragel
+61ebdf10,Sri Parameswaran
+29ab5c50,Javed Absar
+9bd8e7d9,Min Li
+b2f445db,Praveen Raghavan
+bcb35ee3,Andy Lambrechts
+ac66b218,Murali Jayapala
+ab96ef42,Arnout Vandecappelle
+fe9b090d,Francky Catthoor
+15f38872,Rodric M. Rabbah
+2461dd5f,Simon Künzli
+94d0ccbe,Arne Hamann
+8f63fcd2,Rolf Ernst
+bdf13caf,Lothar Thiele
+5e3b41cf,Krutartha Patel
+3a78bc30,Sridevan Parameswaran
+40f50337,Seng Lin Shee
+d1c3a574,Changyun Zhu
+e05368b4,Zhenyu (Peter) Gu
+a64da999,Robert P. Dick
+83a9a181,Li Shang
+a099e10a,Chen-Ling Chou
+ba138c75,Radu Marculescu
+e6a4e98c,Greg Stitt
+c3a2be4e,Frank Vahid
+9fff4c0b,Benny Akesson
+6c831005,Kees Goossens
+8e57bee5,Markus Ringhofer
+a30f6887,Glenn Leary
+719ea60e,Krishna Mehta
+5f84f562,Karam S. Chatha
+ac1cdea5,Heiko Falk
+7e484102,Sascha Plazar
+89f10496,Henrik Theiling
+fe925268,Brett H. Meyer
+0a74b199,Donald E. Thomas
+b29bbcbd,Seunghoon Kim
+a64da999,Robert P. Dick
+4f091054,Russ Joseph
+9755f44d,Chengmo Yang
+bde80e7d,Alex Orailoglu
+d26d1ea0,Leandro Fiorin
+fc89075f,Gianluca Palermo
+2331d2ce,Slobodan Lukovic
+1c1f864f,Cristina Silvano
+768d06e6,Walid A. Najjar
+c1313858,Paul Pop
+aaf19f31,Kåre Harbo Poulsen
+047bd468,Viacheslav Izosimov
+a7d14457,Petru Eles
+9ece0425,Iyad Al Khatib
+f382b557,Davide Bertozzi
+9cec9221,Axel Jantsch
+2c255bd4,Luca Benini
+c2ee10ce,Siddharth Garg
+59b6be17,Diana Marculescu
+5f024c84,Hirofumi Iwato
+ce3b25aa,Keishi Sakanushi
+dc8336b5,Yoshinori Takeuchi
+40fa7155,Masaharu Imai
+3469ac9b,Paul Lokuciejewski
+ac1cdea5,Heiko Falk
+3e3234f9,Martin Schwarzer
+5ebcc362,Peter Marwedel
+89f10496,Henrik Theiling
+79b2fab3,Stefan Kraemer
+222defef,Lei Gao
+0dfcc8dc,Jan Weinstock
+c4e14d52,Rainer Leupers
+12403b51,Gerd Ascheid
+f1354a31,Heinrich Meyr
+18de50f7,Pramod Chandraiah
+7673025f,Rainer Dömer
+821a3283,Sascha Gädtke
+951b2846,Claus Traulsen
+5d97a1ac,Reinhard von Hanxleden
+97ee715b,Siddharth Choudhuri
+96e67ece,Tony Givargis
+dc9692cc,Pao-Ann Hsiung
+bc8a5a64,Pin-Hsien Lu
+92767892,Chih-Wen Liu
+8f054d61,Bruno Albertini
+61ed77a4,Sandro Rigo
+f41a2c46,Guido Araujo
+65fda5fa,Cristiano C. de Araujo
+286a07c3,Edna Barros
+6a4eff31,Willians Azevedo
+a07428da,Alex Bobrek
+64bfa552,JoAnn M. Paul
+0a74b199,Donald E. Thomas
+8f63fcd2,Rolf Ernst
+d5e95fd5,Gernot Spiegelberg
+b8a0d874,Thomas Weber
+e4257617,Hermann Kopetz
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+8d5acf5b,Marek Jersak
+10d6d534,Andreas Hansson
+fd4fe6fa,Martijn Coenen
+6c831005,Kees Goossens
+5767816e,Razvan Racu
+0fb4f822,Li Li
+191d1ed0,Rafik Henia
+94d0ccbe,Arne Hamann
+8f63fcd2,Rolf Ernst
+443d49cf,Hiroaki Inoue
+45e3f5f5,Akihisa Ikeno
+57080e1e,Tsuyoshi Abe
+95d091dc,Junji Sakai
+992e88eb,Masato Edahiro
+40fd12f5,Tarvo Raudvere
+4811c7d6,Ingo Sander
+9cec9221,Axel Jantsch
+f36be3d3,Srinivasan Murali
+b79c6432,Almir Mutapcic
+312579d3,David Atienza
+c4688aac,Rajesh Gupta
+1a32fb9e,Stephen P. Boyd
+35c0ae98,Giovanni De Micheli
+04799dbc,Antoine Perrin
+3ee005b2,Frank Ghenassia
+ae243c3e,Mark Thompson
+359b865e,Hristo Nikolov
+6b49e545,Todor Stefanov
+65834ff1,Andy D. Pimentel
+b9442350,Cagkan Erbas
+9675c423,Simon Polstra
+9f36667b,Ed F. Deprettere
+5f6cf734,Alexander Viehl
+1e36887e,Markus Schwarz
+1c2ac449,Oliver Bringmann
+99aae9d4,Wolfgang Rosenstiel
+714fc052,Michael A. Baker
+5d1907c3,Aviral Shrivastava
+5f84f562,Karam S. Chatha
+367b0d18,Wolfgang Klingauf
+e421b52c,Robert Günzel
+316ba86b,Christian Schröder
+ba138c75,Radu Marculescu
+81c290f7,Borivoje Nikolic
+28855c1f,Alberto L. Sangiovanni-Vincentelli
+2e0504fb,Chong Sun
+83a9a181,Li Shang
+a64da999,Robert P. Dick
+9ac08014,Hanno Scharwächter
+e4f67cbf,Jonghee M. Youn
+c4e14d52,Rainer Leupers
+3a2a6c42,Yunheung Paek
+12403b51,Gerd Ascheid
+f1354a31,Heinrich Meyr
+cc61d038,Wolfgang Haid
+bdf13caf,Lothar Thiele
+bda5127d,Reinaldo A. Bergamaschi
+3119aa18,Indira Nair
+b31e5f92,Gero Dittmann
+03e2a69c,Hiren D. Patel
+546ae89a,Geert Janssen
+9c12bc8f,Nagu R. Dhanwada
+6c199673,Alper Buyuktosunoglu
+623f52f9,Emrah Acar
+07a0c174,Gi-Joon Nam
+5a6f3067,Dorothy Kucar
+55496901,Pradip Bose
+596e6846,John A. Darringer
+a41bad6e,Guoling Han
+3e934469,A. C. H. Ng
+f7a765a7,J. W. Weijers
+6c9b5a5f,Miguel Glassee
+f31f3d8b,Thomas Schuster
+3a1ca5e5,Bruno Bougard
+3db8600a,Liesbet Van der Perre
+5396c684,Yvan Eustache
+d7be10ca,Jean-Philippe Diguet
+e2210888,Lance Saldanha
+7330e2ef,Roman L. Lysecky
+451822b9,Eric Cheung
+021cdabd,Harry Hsieh
+751bdbe4,Felice Balarin
+54d21679,Huaxi Gu
+da71bb16,Jiang Xu
+e3cd9456,Zheng Wang
+392355a1,Hamid Shojaei
+a6da7f75,Twan Basten
+c0c21207,Marc Geilen
+8d3b78f1,Phillip Stanley-Marbell
+61bf6ffb,Haris Javaid
+61ebdf10,Sri Parameswaran
+fb7c63b3,Laura Frigerio
+3aa2ff50,Fabio Salice
+f0d75b50,Miron Abramovici
+6c831005,Kees Goossens
+3c64a066,Bart Vermeulen
+ce1a4996,Jack Greenbaum
+799d348f,Neal Stollon
+fdc9be3f,Adam Donlin
+4cd111f5,Love Singhal
+bda0c922,Sejong Oh
+65c2fd21,Eli Bozorgzadeh
+702e59fb,Jianguo Yao
+c4ee8c91,Xue Liu
+5e936133,Mingxuan Yuan
+5e859ee1,Zonghua Gu
+82ff28ed,Kwangyoon Lee
+bde80e7d,Alex Orailoglu
+4debeb78,Girish Venkataramani
+db607b40,Seth Copen Goldstein
+e6a4e98c,Greg Stitt
+ba70b12d,Gaurav Chaudhari
+373234ba,James Coole
+8b843639,Chen Huang
+9d78f661,David Sheldon
+c3a2be4e,Frank Vahid
+42a68d0b,Yun Liang
+f19cf552,Lei Ju
+ee5a6060,Samarjit Chakraborty
+94f4db9b,Tulika Mitra
+e4581b43,Abhik Roychoudhury
+a4f1233b,Paula Herber
+ee920eb0,Joachim Fellmuth
+2fde00f4,Sabine Glesner
+e2adbd6a,Simon Schliecker
+d30c0737,Jonas Rox
+e4b82d20,Matthias Ivers
+8f63fcd2,Rolf Ernst
+15bd14f4,Mwaffaq Otoom
+64bfa552,JoAnn M. Paul
+5e3b41cf,Krutartha Patel
+61ebdf10,Sri Parameswaran
+2c48dbc9,Vivy Suhendra
+e4581b43,Abhik Roychoudhury
+94f4db9b,Tulika Mitra
+920a68f9,Young-Hwan Park
+53a04d64,Sudeep Pasricha
+f1577acf,Fadi J. Kurdahi
+6fd4c5f6,Nikil Dutt
+c3a2be4e,Frank Vahid
+96e67ece,Tony Givargis
+366f28ac,Dan J. Gale
+711d050b,Theo Kluter
+d8ea7ddf,Philip Brisk
+2c065425,Paolo Ienne
+c22fab8b,Edoardo Charbon
+201ed10f,Nicola Concer
+d3e11699,Michele Petracca
+68ad0b91,Luca P. Carloni
+66dc780a,Giovanni Beltrame
+0d825ab0,Luca Fossati
+fc0f666e,Donatella Sciuto
+5ff5fb77,Heon-Mo Koo
+cec782cd,Prabhat Mishra
+a129c38b,Gang Quan
+2b404533,Yan Zhang
+4ea4ed84,William Wiles
+5272fa43,Pei Pei
+c2ee10ce,Siddharth Garg
+59b6be17,Diana Marculescu
+d26d1ea0,Leandro Fiorin
+fc89075f,Gianluca Palermo
+1c1f864f,Cristina Silvano
+97ee715b,Siddharth Choudhuri
+96e67ece,Tony Givargis
+07d18dca,Felix Reimann
+afbce7b4,Michael Glabeta
+9bd10566,Martin Lukasiewycz
+c178ca76,Joachim Keinert
+5f190518,Christian Haubelt
+4f31928f,Jürgen Teich
+f19cf552,Lei Ju
+8d475be0,Bach Khoa Huynh
+e4581b43,Abhik Roychoudhury
+ee5a6060,Samarjit Chakraborty
+5e621120,Jongeun Lee
+5d1907c3,Aviral Shrivastava
+7d822187,Konstantinos Aisopos
+06a042fd,Chien-Chun Chou
+a5d12128,Li-Shiuan Peh
+19a81dcb,Matthias Krause
+e5cdd0c3,Dominik Englert
+1c2ac449,Oliver Bringmann
+99aae9d4,Wolfgang Rosenstiel
+9d78f661,David Sheldon
+c3a2be4e,Frank Vahid
+42a68d0b,Yun Liang
+94f4db9b,Tulika Mitra
+714fc052,Michael A. Baker
+3d292342,Viswesh Parameswaran
+5f84f562,Karam S. Chatha
+b7c8b846,Baoxin Li
+4b0795cc,Christos Strydis
+a942f7cf,Georgi Gaydadjiev
+e2adbd6a,Simon Schliecker
+4e0f90cd,Mircea Negrean
+67a0e456,Gabriela Nicolescu
+1119942c,Pierre G. Paulin
+8f63fcd2,Rolf Ernst
+add6c338,Simon Ogg
+16c2a098,Bashir M. Al-Hashimi
+5ccfb150,Alexandre Yakovlev
+8619bbfb,John P. Grossman
+fc60f24b,Cliff Young
+1d3a881d,Joseph A. Bank
+0996d3e0,Kenneth M. Mackenzie
+7e502f1e,Doug Ierardi
+3609b2d5,John K. Salmon
+097a3c87,Ron O. Dror
+24473b0c,David E. Shaw
+f7e5795d,Xiaobo Sharon Hu
+6a7f6287,Alexander Khitun
+52d83122,Konstantin K. Likharev
+31ceba39,Michael T. Niemier
+c47b8e58,Mingqiang Bao
+fb39dfb9,Kang L. Wang
+fe1ff206,Herman Akdag
+1b88e244,Bernadette Bouchon
+c87ee524,Roger Alexis
+a33f514a,Gerard Battail
+a33f514a,Gerard Battail
+a33f514a,Gerard Battail
+b87ffb23,J. C. Belfiore
+8af77198,Toby Berger
+8af77198,Toby Berger
+36fa5353,Raymond W. Yeung
+8b406983,Anne Bertrand
+2d27e6b0,M. Beveraggi
+e577ed24,Gérard D. Cohen
+0afe1e89,Dominique Le Brigand
+0afe1e89,Dominique Le Brigand
+d9081712,Paul Camion
+d6a09926,Jean-Luc Politano
+3a1d49a3,Claude Carlet
+4fde6fa7,M. Carral
+3a85770f,D. Rotillon
+e898d316,J. A. Thiong-Ly
+c9ba6e97,I. M. Chakravarti
+e577ed24,Gérard D. Cohen
+3910aacc,Philippe Godlewski
+aa8bed98,Tai-Yang Hwang
+71d041bf,J. L. Dalmau
+ceda5538,J. A. Delgado
+9151d932,Llorenç Huguet i Rotger
+01f1fbb0,Inma Ortuño Ortin
+817682bc,R. Valle
+abe94e21,Jean-Louis Dornstetter
+9d0daa22,Yves Driencourt
+36bbff29,Jean-Francis Michon
+20216bfc,J. Fang
+e577ed24,Gérard D. Cohen
+3910aacc,Philippe Godlewski
+a33f514a,Gerard Battail
+45780abd,Patrick Fitzpatrick
+1bef5fe8,Graham H. Norton
+5c8b1db0,Francisco J. García-Ugalde
+1baf1aa2,Arif Ghafoor
+5318a114,Patrick Solé
+e92e4f90,G. Hakizimana
+83b60099,G. Jourdain
+20f3ea3c,G. Loubet
+5900e4d3,Sami Harari
